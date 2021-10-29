@@ -53,4 +53,4 @@ Moro em Guarapari-ES, e atualmente trabalho como **Summer de Instrução na Tryb
 
 <br />
 
-⭐️ Baseado em [Johnatas Henrique](https://github.com/johnatas-henrique)
+⭐️ Baseado em [Johnatas Henrique](https://github.com/johnatas-henrique) e [Erick Santos](https://github.com/erick-ol)
