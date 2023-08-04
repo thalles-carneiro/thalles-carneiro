@@ -2,15 +2,15 @@
 
 <br />
 
-Moro em Guarapari-ES, e atualmente trabalho como **Summer de Instrução na Trybe** 🚀!
+Moro em Guarapari-ES, e atualmente trabalho como **Pessoa Instrutora na Trybe** 🚀!
 
 ### **Meus interesses pessoais:**
 
 <div align="center">
   <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
   <div align="left" style="display: inline_block">
-    <li>- 🔭 Atualmente estudo Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a></li>
-    <li>- 🌱 Aprendendo NodeJS</li>
+    <li>- 🔭 Desenvolvimento Web</li>
+    <li>- 🌱 Educação</li>
     <li>- 🤔 Meus hobbies são jogos, animes e séries</li>
     <li>- 💬 Pergunte-me sobre qualquer coisa, adoro conversar e ajudar pessoas</li>
     <li>- ⚡ Fato interessante: Já morei durante 1 ano em Budapeste</li>
