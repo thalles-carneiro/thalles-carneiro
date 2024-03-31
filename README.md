@@ -71,9 +71,9 @@
 
 <div>
   <h2>📊 Github Stats</h2>
-  <div style="display: flex; flex-direction: column;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&layout=compact&show_icons=true&langs_count=10&theme=dracula&hide_border=true&username=thalles-carneiro" alt="Gráfico das linguagens mais usadas" />
-    <img src="https://github-readme-stats.vercel.app/api?username=thalles-carneiro&&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Github Status de Thalles Carneiro" />
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&layout=compact&show_icons=true&langs_count=10&theme=dracula&hide_border=true&username=thalles-carneiro" height="200px alt="Gráfico das linguagens mais usadas" />
+    <img src="https://github-readme-stats.vercel.app/api?username=thalles-carneiro&&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" height="200px alt="Github Status de Thalles Carneiro" />
   </div>
 </div>
 
