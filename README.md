@@ -2,7 +2,7 @@
   <div>
     <h1>Prazer, Thalles Carneiro 😄</h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Desenvolvedor+Web+Full+Stack;Apaixonado+por+aprender+e+ensinar" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&lines=Desenvolvedor+Web+Full+Stack;Apaixonado+por+aprender+e+ensinar" alt="Typing SVG" />
     </a>
   </div>
   <div align="center">
@@ -20,11 +20,11 @@
 <div>
   <h3>Interesses pessoais</h3>
   <div>
-    <li> 🔭 Desenvolvimento Web</li>
-    <li> 🌱 Educação</li>
-    <li> 🤔 Meus hobbies são jogos, animes e séries</li>
-    <li> 💬 Pergunte-me sobre qualquer coisa, adoro conversar e ajudar pessoas</li>
-    <li> ⚡ Fato interessante: Já morei durante 1 ano em Budapeste</li>
+    <li>🔭 Desenvolvimento Web</li>
+    <li>🌱 Educação</li>
+    <li>🤔 Meus hobbies são jogos, animes e séries</li>
+    <li>💬 Pergunte-me sobre qualquer coisa, adoro conversar e ajudar pessoas</li>
+    <li>⚡ Fato interessante: Já morei durante 1 ano em Budapeste</li>
   </div>
 </div>
 
@@ -71,9 +71,9 @@
 
 <div>
   <h2>📊 Github Stats</h2>
-  <div style="display: flex; justify-content: space-around">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&layout=compact&show_icons=true&langs_count=10&theme=dracula&hide_border=true&username=thalles-carneiro" width="45%" alt="Gráfico das linguagens mais usadas" />
-    <img src="https://github-readme-stats.vercel.app/api?username=thalles-carneiro&&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" width="45%" alt="Github Status de Thalles Carneiro" />
+  <div style="display: flex; flex-direction: column;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&layout=compact&show_icons=true&langs_count=10&theme=dracula&hide_border=true&username=thalles-carneiro" alt="Gráfico das linguagens mais usadas" />
+    <img src="https://github-readme-stats.vercel.app/api?username=thalles-carneiro&&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Github Status de Thalles Carneiro" />
   </div>
 </div>
 
