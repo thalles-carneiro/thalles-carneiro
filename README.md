@@ -1,56 +1,80 @@
-# Prazer, Thalles Carneiro 😄
-
-<br />
-
-Moro em Guarapari-ES, e atualmente trabalho como **Pessoa Instrutora na Trybe** 🚀!
-
-### **Meus interesses pessoais:**
-
 <div align="center">
-  <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
-  <div align="left" style="display: inline_block">
-    <li>- 🔭 Desenvolvimento Web</li>
-    <li>- 🌱 Educação</li>
-    <li>- 🤔 Meus hobbies são jogos, animes e séries</li>
-    <li>- 💬 Pergunte-me sobre qualquer coisa, adoro conversar e ajudar pessoas</li>
-    <li>- ⚡ Fato interessante: Já morei durante 1 ano em Budapeste</li>
+  <div>
+    <h1>Prazer, Thalles Carneiro 😄</h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Desenvolvedor+Web+Full+Stack;Apaixonado+por+aprender+e+ensinar" alt="Typing SVG" />
+    </a>
+  </div>
+  <div align="center">
+    <p align="center">
+      <a href="https://www.linkedin.com/in/thallescarneiro/">
+        <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true">
+      </a>&nbsp;&nbsp;
+      <a href="mailto:thallescarneiro@gmail.com">
+        <img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1">
+      </a>
+    </p>
   </div>
 </div>
 
----
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalles-carneiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
-
----
-
-### **Linguagens e ferramentas:**  
-
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  <h3>Interesses pessoais</h3>
+  <div>
+    <li> 🔭 Desenvolvimento Web</li>
+    <li> 🌱 Educação</li>
+    <li> 🤔 Meus hobbies são jogos, animes e séries</li>
+    <li> 💬 Pergunte-me sobre qualquer coisa, adoro conversar e ajudar pessoas</li>
+    <li> ⚡ Fato interessante: Já morei durante 1 ano em Budapeste</li>
+  </div>
 </div>
 
----
-
-### **Contato:**
+<hr />
 
 <div>
-  <a href="https://www.linkedin.com/in/thallescarneiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:thallescarneiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/carneiro.thalles" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <h3>🛠️ Minhas habilidades</h3>
+  <div>
+    <h4>Linguagens</h4>
+    <img title="JavaScript" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+    <img title="TypeScript" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+    <img title="Python" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  </div>
+  <div>
+    <h4>Desenvolvimento Front-End</h4>
+    <img title="React" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+    <img title="Redux" alt="Redux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
+    <img title="React Testing Library" alt="React Testing Library" width="40" height="40" src="https://testing-library.com/img/logo-large.png" />
+    <img title="Bootstrap" alt="Bootstrap" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <img title="Styled Components" alt="Styled Components" height="40" width="40" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" />
+  </div>
+  <div>
+    <h4>Desenvolvimento Back-End</h4>
+    <img title="Node.JS" alt="Node.JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img title="MySQL" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img title="MongoDB" alt="MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    <img title="Sequelize" alt="Sequelize" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+    <img title="Express" alt="Express" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  </div>
+  <div>
+    <h4>Utilitários</h4>
+    <img title="Linux" alt="Linux" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+    <img title="Terminal" alt="Terminal" height="40" width="40" src="https://cdn.svgporn.com/logos/terminal.svg" />
+    <img title="Git" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img title="GitHub" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img title="NPM" alt="NPM" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+    <img title="Eslint" alt="Eslint" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
+    <img title="Vscode" alt="Vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img title="Trello" alt="Trello" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+    <img title="Jest" alt="Jest" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
+    <img title="Docker" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+  </div>
 </div>
 
-<br />
+<div>
+  <h2>📊 Github Stats</h2>
+  <div style="display: flex; justify-content: space-around">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&layout=compact&show_icons=true&langs_count=10&theme=dracula&hide_border=true&username=thalles-carneiro" width="45%" alt="Gráfico das linguagens mais usadas" />
+    <img src="https://github-readme-stats.vercel.app/api?username=thalles-carneiro&&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" width="45%" alt="Github Status de Thalles Carneiro" />
+  </div>
+</div>
 
-⭐️ Baseado em [Johnatas Henrique](https://github.com/johnatas-henrique) e [Erick Santos](https://github.com/erick-ol)
+⭐️ Baseado em [Klecianny Melo](https://github.com/Kecbm), [Taehyun Hwang](https://github.com/HwangTaehyun) e [Candida Noronha](https://github.com/Candida18)
