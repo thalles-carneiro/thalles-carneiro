@@ -18,20 +18,18 @@
 </div>
 
 <div>
-  <h3>Interesses pessoais</h3>
+  <h2>💭 Meus interesses pessoais</h2>
   <div>
-    <li>🔭 Desenvolvimento Web</li>
-    <li>🌱 Educação</li>
-    <li>🤔 Meus hobbies são jogos, animes e séries</li>
+    <li>💻 Desenvolvimento Web</li>
+    <li>📖 Educação</li>
+    <li>🎮 Meus hobbies são jogos, animes e séries</li>
     <li>💬 Pergunte-me sobre qualquer coisa, adoro conversar e ajudar pessoas</li>
-    <li>⚡ Fato interessante: Já morei durante 1 ano em Budapeste</li>
+    <li>🛫 Fato interessante: Já fiz intercâmbio e morei durante 1 ano em Budapeste</li>
   </div>
 </div>
 
-<hr />
-
 <div>
-  <h3>🛠️ Minhas habilidades</h3>
+  <h2>🛠️ Minhas habilidades</h2>
   <div>
     <h4>Linguagens</h4>
     <img title="JavaScript" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
@@ -76,5 +74,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=thalles-carneiro&&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" height="200px alt="Github Status de Thalles Carneiro" />
   </div>
 </div>
+
+---
 
 ⭐️ Baseado em [Klecianny Melo](https://github.com/Kecbm), [Taehyun Hwang](https://github.com/HwangTaehyun) e [Candida Noronha](https://github.com/Candida18)
