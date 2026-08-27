@@ -2,7 +2,7 @@
   <div>
     <h1>Hi, I'm Thalles Carneiro 😄</h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&lines=Data+Engineer;Python+Automation+%26+API+Integrations;Building+scalable+ETL%2FELT+pipelines" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&random=false&lines=Data+Engineer;Python+Automation+%26+API+Integrations;Building+scalable+ETL%2FELT+pipelines" alt="Typing SVG" />
     </a>
   </div>
   <div align="center">
