@@ -1,8 +1,8 @@
 <div align="center">
   <div>
-    <h1>Prazer, Thalles Carneiro 😄</h1>
+    <h1>Hi, I'm Thalles Carneiro 😄</h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&lines=Desenvolvedor+Web+Full+Stack;Apaixonado+por+aprender+e+ensinar" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&lines=Data+Engineer;Python+Automation+%26+API+Integrations;Building+scalable+ETL%2FELT+pipelines" alt="Typing SVG" />
     </a>
   </div>
   <div align="center">
@@ -18,63 +18,51 @@
 </div>
 
 <div>
-  <h2>💭 Meus interesses pessoais</h2>
+  <h2>💭 About me</h2>
   <div>
-    <li>💻 Desenvolvimento Web</li>
-    <li>📖 Educação</li>
-    <li>🎮 Meus hobbies são jogos, animes e séries</li>
-    <li>💬 Pergunte-me sobre qualquer coisa, adoro conversar e ajudar pessoas</li>
-    <li>🛫 Fato interessante: Já fiz intercâmbio e morei durante 1 ano em Budapeste</li>
+    <li>📊 Data Engineer with a software development background, focused on Python automation, API integrations, and scalable data ingestion</li>
+    <li>🛠️ I build custom ETL/ELT pipelines, orchestrate workflows with Apache Airflow, and enforce data quality through automated Pytest frameworks</li>
+    <li>☁️ Experienced with containerization (Docker) and serverless architectures (Cloud Functions/Lambda) for production-grade data services on GCP/AWS</li>
+    <li>💬 Always happy to talk about data pipelines, automation, or mentoring aspiring engineers</li>
+    <li>🛫 Fun fact: I lived in Budapest for a year during an academic exchange program</li>
   </div>
 </div>
 
 <div>
-  <h2>🛠️ Minhas habilidades</h2>
+  <h2>🛠️ Skills</h2>
   <div>
-    <h4>Linguagens</h4>
+    <h4>Languages</h4>
+    <img title="Python" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img title="SQL" alt="SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img title="JavaScript" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
     <img title="TypeScript" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-    <img title="Python" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   </div>
   <div>
-    <h4>Desenvolvimento Front-End</h4>
-    <img title="React" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-    <img title="Redux" alt="Redux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
-    <img title="React Testing Library" alt="React Testing Library" width="40" height="40" src="https://testing-library.com/img/logo-large.png" />
-    <img title="Bootstrap" alt="Bootstrap" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    <img title="Styled Components" alt="Styled Components" height="40" width="40" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" />
+    <h4>Data Engineering & Orchestration</h4>
+    <img title="Apache Airflow" alt="Apache Airflow" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" />
+    <img title="BigQuery" alt="BigQuery" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+    <img title="Pytest" alt="Pytest" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-plain.svg" />
   </div>
   <div>
-    <h4>Desenvolvimento Back-End</h4>
-    <img title="Node.JS" alt="Node.JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img title="MySQL" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img title="MongoDB" alt="MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-    <img title="Sequelize" alt="Sequelize" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-    <img title="Express" alt="Express" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+    <h4>Cloud & Infrastructure</h4>
+    <img title="Google Cloud Platform" alt="GCP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+    <img title="AWS" alt="AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+    <img title="Docker" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+    <img title="Terraform" alt="Terraform" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
   </div>
   <div>
-    <h4>Utilitários</h4>
-    <img title="Linux" alt="Linux" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-    <img title="Terminal" alt="Terminal" height="40" width="40" src="https://cdn.svgporn.com/logos/terminal.svg" />
+    <h4>Tools & Methodologies</h4>
     <img title="Git" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img title="GitHub" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    <img title="NPM" alt="NPM" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-    <img title="Eslint" alt="Eslint" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
+    <img title="Jenkins" alt="Jenkins" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+    <img title="Linux" alt="Linux" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
     <img title="Vscode" alt="Vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img title="Trello" alt="Trello" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-    <img title="Jest" alt="Jest" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
-    <img title="Docker" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
   </div>
 </div>
 
 <div>
-  <h2>📊 Github Stats</h2>
+  <h2>💼 Currently</h2>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&layout=compact&show_icons=true&langs_count=10&theme=dracula&hide_border=true&username=thalles-carneiro" height="200px alt="Gráfico das linguagens mais usadas" />
-    <img src="https://github-readme-stats.vercel.app/api?username=thalles-carneiro&&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" height="200px alt="Github Status de Thalles Carneiro" />
+    <li>📍 Data Engineer at <b>UOL - Universo Online</b>, building automated data pipelines and backend integrations across multi-cloud environments (GCP/AWS)</li>
   </div>
 </div>
-
----
-
-⭐️ Baseado em [Klecianny Melo](https://github.com/Kecbm), [Taehyun Hwang](https://github.com/HwangTaehyun) e [Candida Noronha](https://github.com/Candida18)
